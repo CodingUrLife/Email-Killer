@@ -1,0 +1,20 @@
+If your using windows 10 and you wanna run our tools as a executable/application for Windows,
+ then this tutorial is fro you.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+-1 = Go to your browser and search "https://pip-installer.org"
+-2 = Click on 'installation' and scroll down untill you see 'Install pip' click the get-pip.py link under it
+and you want to save the python file as '/Desktop/'
+-3 = Then go to your desktop screen and double click the python file to run it.
+-4 = [FINISHED STEP 1]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Now that you how installed 'pip' now we can begin to make the python file a .exe.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+-1 = Open 'CMD' and type 'pip install pyinstaller
+-2 = Put the python file in a folder in your /Downloads/. And then type 'cd /user/Downloads/Folder
+In my case the folder name is just named Folder but you can name the folder what ever you want.
+-3 = Then open 'CMD' and type 'pyinstaller -F [file-name-here]'
+-3 = If you want to add a image then type 'pyinstaller -i [image-name-here] -F [file-name-here]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+You have successfully made the python file a executable. You can now run it just like you would run our tool
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
