@@ -2,10 +2,10 @@
 DynamicSec | Email-Killer v1.5
 
 'Having Issues? Contact The Developer"
-Instagram = codingurlife
-======================================
+Instagram = codingurlfe
 
 [INSTALL]
+=========
 
 1 - Download The Files As ZIP 'And Skip To Line
 
