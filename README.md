@@ -1,5 +1,5 @@
 # Email-Killer
-DynamicSec | Email-Killer v1.5
+DynamicSec | Email-Killer v2.0
 
 'Having Issues? Contact The Developer"
 Instagram = codingurlfe
