@@ -13,6 +13,6 @@ Instagram = codingurlfe
 
 3 - If Your Using Linux/Termux Then Type "git clone https://github.com/CodingUrLife/Email-Killer.git"
 
-4 - sudo python3 'Email-Killer v1.5.py"
+4 - sudo python3 'Email-Killer v2.0.py"
 
 5 - Enjoy :)
